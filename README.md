@@ -23,11 +23,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-## GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=helderjfl&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true&hide=stars&hide_title=true)
-
-![Snake animation](https://github.com/Helderjfl/Helderjfl/blob/output/github-contribution-grid-snake.svg)
-
 ## Social
 
 <p align="left" style="background:yellow">
