@@ -2,9 +2,8 @@
 
 * I work at **Instituto Federal do Paraná**
 * I mainly teach programming and a bit of computer architecture
-* Focused on Object Oriented Programming with Java, studying to switch to Python in 2023
-* Researching on testing for CUDA C programming for my PHD
-* Currently studying WEB Development
+* Focused on Object Oriented Programming with Java and Python, WEB Development with Node.js
+* Currently studying Android Development with Kotlin
 
 ## Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -15,6 +14,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![CUDA](https://img.shields.io/badge/-CUDA-05122A?style=flat&logo=nvidia)&nbsp;
+![KOTLIN](https://img.shields.io/badge/-KOTLIN-05122A?logo=kotlin)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
