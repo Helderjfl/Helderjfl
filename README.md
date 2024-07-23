@@ -1,9 +1,13 @@
 # I'm Helder Jefferson
+<a href="https://app.rocketseat.com.br/me/helderjfl"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=helderjfl&type=card" width="280" alt="Helder Jefferson Ferreira da Luz's Rocket ID"/></a>
 
 * I work at **Instituto Federal do Paraná**
 * I mainly teach programming and a bit of computer architecture
 * Focused on Object Oriented Programming with Java and Python, WEB Development with Node.js
 * Currently studying Android Development with Kotlin
+
+
+
 
 ## Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
