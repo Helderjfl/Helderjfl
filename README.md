@@ -1,5 +1,4 @@
 # I'm Helder Jefferson
-<a href="https://app.rocketseat.com.br/me/helderjfl"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=helderjfl&type=card" width="280" alt="Helder Jefferson Ferreira da Luz's Rocket ID"/></a>
 
 * I work at **Instituto Federal do Paraná**
 * I mainly teach programming and a bit of computer architecture
