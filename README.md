@@ -1,10 +1,14 @@
+<img src="img/developer.svg" width="350px" align="right" style="z-index=999">
+
+
+
+
 # I'm Helder Jefferson
 
 * I work at **Instituto Federal do Paraná**
 * I mainly teach programming and a bit of computer architecture
 * Focused on Object Oriented Programming with Java and Python, WEB Development with Node.js
 * Currently studying Android Development with Kotlin
-
 
 
 
@@ -44,6 +48,4 @@
 <a href="https://www.youtube.com/channel/UCsz2AsxADYsQ-E4J__VU_2w" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Helder%20Aulas-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
-  
-  
 </p>
