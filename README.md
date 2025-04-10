@@ -42,16 +42,16 @@
 <p style="display: flex; gap: 10px;">
 <a href="https://twitter.com/helderjfl" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Helderjfl-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
+</a>&nbsp;
 <a href="https://linkedin.com/in/helderjfl" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Helderjfl-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+</a>&nbsp;
 <a href="https://instagram.com/helderjfl" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Helderjfl-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+</a>&nbsp;
 <a href="https://www.youtube.com/c/HelderJeffersonFerreiradaLuz" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Helder%20Pessoal-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+</a>&nbsp;
 <a href="https://www.youtube.com/channel/UCsz2AsxADYsQ-E4J__VU_2w" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Helder%20Aulas-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
