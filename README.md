@@ -39,7 +39,7 @@
 
 ### Social
 
-<p align="left" style="background:yellow">
+<p style="display: flex; gap: 10px;">
 <a href="https://twitter.com/helderjfl" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Helderjfl-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
