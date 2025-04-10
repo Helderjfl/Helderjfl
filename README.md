@@ -3,16 +3,18 @@
 
 
 
-<h1 style="border-bottom: 0"> I'm Helder Jefferson </h1>
+### I'm Helder Jefferson
 
 * I work at **Instituto Federal do Paraná**
 * I mainly teach programming and a bit of computer architecture
 * Focused on **Python** for data analysis, Web Development with **Node.js**
 * Currently studying Android Development with **Kotlin**
 
+<br>
+<hr>
+<br>
 
-
-<h2 style="border-bottom: 0"> Tech Stack </h2>
+### Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -31,7 +33,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-## Social
+<br>
+<hr>
+<br>
+
+### Social
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/helderjfl" target="_blank">
