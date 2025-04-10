@@ -1,18 +1,19 @@
-<img src="img/developer.svg" width="350px" align="right" style="z-index=999">
+<img src="img/developer.svg" width="370px" align="right">
 
 
 
 
-# I'm Helder Jefferson
+<h1 style="border-bottom: 0"> I'm Helder Jefferson </h1>
 
 * I work at **Instituto Federal do Paraná**
 * I mainly teach programming and a bit of computer architecture
-* Focused on Object Oriented Programming with Java and Python, WEB Development with Node.js
-* Currently studying Android Development with Kotlin
+* Focused on **Python** for data analysis, Web Development with **Node.js**
+* Currently studying Android Development with **Kotlin**
 
 
 
-## Tech Stack
+<h2 style="border-bottom: 0"> Tech Stack </h2>
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
