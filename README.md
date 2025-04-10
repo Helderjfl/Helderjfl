@@ -12,7 +12,7 @@
 
 <br>
 <hr>
-<br>
+
 
 ### Tech Stack
 
@@ -35,7 +35,7 @@
 
 <br>
 <hr>
-<br>
+
 
 ### Social
 
